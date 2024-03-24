@@ -14,7 +14,7 @@ In summary, I am a dedicated backend programmer with a passion for problem-solvi
 ## Skills
 - Programming Languages: Python, Javascript, Dart (Flutter), C, MySQL, HTML, CSS, MongoDB
 - Tools & Technologies: Git, Github, Google Cloud Platform, Firebase, Slack, Trello, Notion
-- Other Skills: Comunication, Problem Solving, Leadership, Time Managment, Collaboration Adaptability
+- Other Skills: Communication, Problem Solving, Leadership, Time Managment, Collaboration Adaptability
 
 
 ## Get in Touch

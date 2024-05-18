@@ -7,8 +7,8 @@ In summary, I am a dedicated backend programmer with a passion for problem-solvi
 ## Main Projects
 - **MapIT:**
   [MapIT](https://github.com/juanmaishere/MapIT) is a social media platform designed to allow users to share their locations with friends on a map, along with photos and descriptions of their experiences. Whether you're exploring a new city, discovering hidden gems in your neighborhood, or embarking on an exciting adventure, MapIT lets you easily connect and share your experiences with friends in real-time.
-- **Simple Shell:**
-  [Simple Shell](https://github.com/MateoZouko/holbertonschool-simple_shell) is a collaborative project developed in the C programming language with the aim of creating a basic Unix shell from scratch. A shell is a command-line interface that allows users to interact with the operating system by executing commands and programs. This project seeks to deepen understanding of the Unix operating system and the fundamentals of C programming by implementing a functional shell.
+- **Stock Price Prediction:**
+  [Stock Price Prediction]([https://github.com/MateoZouko/holbertonschool-simple_shell](https://github.com/MateoZouko/stock_price-prediction) is a project that aims to predict stock prices using machine learning. It involves loading stock data, preprocessing it, engineering features, training a model, and making predictions. The project also includes a visualization of the actual versus predicted stock prices.
 
 
 ## Skills

@@ -1,7 +1,7 @@
 # Welcome to Mateo Zouko's GitHub Profile! 👋
 
 ## About Me
-A statistician and backend programmer who enjoys solving problems the most especially in finance and healthcare. They can make scalable solutions using languages that are based on modules. The person is looking into how technology can be used for creating impactful solutions in areas such as quant finance, fintech, and medtech.
+A statistician and machine learning student, backend programmer who enjoys solving problems the most especially in finance and healthcare. They can make scalable solutions using languages that are based on modules. The person is looking into how technology can be used for creating impactful solutions in areas such as quant finance, fintech, and medtech.
 ## Main Projects
 - **MapIT:**
   [MapIT](https://github.com/juanmaishere/MapIT) is a social media platform designed to allow users to share their locations with friends on a map, along with photos and descriptions of their experiences. Whether you're exploring a new city, discovering hidden gems in your neighborhood, or embarking on an exciting adventure, MapIT lets you easily connect and share your experiences with friends in real-time.

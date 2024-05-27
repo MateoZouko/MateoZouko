@@ -1,4 +1,4 @@
-# Welcome to Mateo Zouko's GitHub Profile! 👋
+# Mateo Zouko!
 
 ## About Me
 A statistician and machine learning student, backend programmer who enjoys solving problems the most especially in finance and healthcare. They can make scalable solutions using languages that are based on modules. The person is looking into how technology can be used for creating impactful solutions in areas such as quant finance, fintech, and medtech.

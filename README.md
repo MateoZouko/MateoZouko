@@ -1,9 +1,7 @@
 # Welcome to Mateo Zouko's GitHub Profile! 👋
 
 ## About Me
-I am a passionate Statistics Student and backend programmer with a keen eye for problem-solving, especially when it comes to mathematical challenges. My programming style is characterized by strong modularization, allowing for efficient and scalable solutions to complex problems.
-My principal interests lie at the intersection of technology and finance, particularly in quant finance and fintech. I am fascinated by the application of mathematical models and algorithms to analyze financial markets, optimize trading strategies, and mitigate risks. Exploring innovative ways to leverage technology in the financial sector excites me, whether it's through algorithmic trading, machine learning, or blockchain solutions. Additionally, I am intrigued by the potential of technology to revolutionize the field of medical technology (med tech). The opportunity to develop software solutions that can improve healthcare outcomes, streamline processes, and enhance patient care motivates me to delve deeper into this domain.
-In summary, I am a dedicated backend programmer with a passion for problem-solving, a penchant for modular programming, and a strong interest in quant finance, fintech, and med tech. I am driven by the challenge of leveraging technology to create impactful solutions in these dynamic and rapidly evolving fields.
+A statistician and backend programmer who enjoys solving problems the most especially in finance and healthcare. They can make scalable solutions using languages that are based on modules. The person is looking into how technology can be used for creating impactful solutions in areas such as quant finance, fintech, and medtech.
 ## Main Projects
 - **MapIT:**
   [MapIT](https://github.com/juanmaishere/MapIT) is a social media platform designed to allow users to share their locations with friends on a map, along with photos and descriptions of their experiences. Whether you're exploring a new city, discovering hidden gems in your neighborhood, or embarking on an exciting adventure, MapIT lets you easily connect and share your experiences with friends in real-time.
